@@ -1,0 +1,2 @@
+# douban_spider
+基于scrapy的爬虫工具 爬取豆瓣top250数据并生成csv文件或者json文件
